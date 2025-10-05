@@ -4,10 +4,9 @@
 	"description": "Amogha's first backend learning website",
 	"keywords": ["amogharajsandur", "freecodecamp", "first website", "node.js", "express", "backend"],
 	"license": "MIT",
-	"version": "1.0.7",
+	"version": "1.0.10",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.2.13"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
