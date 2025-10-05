@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "amogharajsandur",
+	"description": "Amogha's first backend learning website",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
